@@ -1,14 +1,10 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+[
+ {
+"id":"1",
+  "latitud":"4.152326",
+  "longitud":"-73.639759",
+  "nombre_lugar":"alcaldia villavicencio",
+  "descripcion_lugar":"esta es la alcaldia de villavicencio",
+  "imagen_lugar":"https://lh3.googleusercontent.com/proxy/gzPJVdde93kBe1dfBNVpO_2LdzBj1td3OcP9efFXTfi9vWwK4yEIZqK19zotEpC_kW32QwDy5bJvFRXf4sKP0R9soopanOTcjSI2x0376WBKG7H9t5-23FV2zMrSXIGHei_S97U"
 }
+]
